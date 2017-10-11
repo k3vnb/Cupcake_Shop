@@ -1,0 +1,50 @@
+img.head-img {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 50px;
+}
+
+img {
+    max-width: 100%;
+}
+
+h2.sub-red {
+    color: red;
+    font-style: italic;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+img.float-l {
+    float: left;
+    width: 50%;
+}
+
+p img {
+    margin: 0 10px 5px 0;
+}
+.best {
+    margin: 20px 25%;
+    border: 1px solid;
+    padding: 15px;
+    background: #f9f3e4;
+    border-radius: 10px;
+    box-shadow: 3px 3px 13px 0px rgba(0, 0, 0, 0.5);
+}
+
+.best h3 {
+    margin: 0;
+    padding: 20px;
+    background: red;
+    border-radius: 10px;
+}
